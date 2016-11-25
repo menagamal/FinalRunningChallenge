@@ -23,3 +23,7 @@ Technical Topics Coverd :
 5-Third Party Lib. (to Crop the images)
 6-GoogleMaps 
 7-Accelerometer Sensor to count the steps  
+
+
+There is a problem in this version it is that the map does not appear but it exists ...
+I will try to solve this one very soon Thanks
